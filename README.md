@@ -1,2 +1,2 @@
 # Cosy_Creations
-Cosy-Creatiosn
+Cosy-Creations
